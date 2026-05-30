@@ -7,7 +7,6 @@
 [![No dependencies](https://img.shields.io/badge/Dependencies-none-brightgreen)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Repository:** [github.com/Syed-Abdul-Rehman-Nasir/Steganography-Java-OOP](https://github.com/Syed-Abdul-Rehman-Nasir/Steganography-Java-OOP)
 
 ---
 
@@ -186,18 +185,6 @@ java Decryption
 - [ ] Unit tests for bit-level helpers
 - [ ] Binary file embedding (images, documents) in addition to text
 - [ ] `src/main/resources/images/` layout for proper classpath asset management
-
----
-
-## Author
-
-**Syed Abdul Rehman Nasir** — [GitHub](https://github.com/Syed-Abdul-Rehman-Nasir)
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
