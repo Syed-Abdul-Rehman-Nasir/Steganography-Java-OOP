@@ -1,0 +1,32 @@
+# Compiled Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+
+# IDE — IntelliJ IDEA
+.idea/
+out/
+
+# IDE — Eclipse / VS Code
+.classpath
+.project
+.settings/
+bin/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# JVM crash logs
+hs_err_pid*
